@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on projects that focus on natural language processing, machine learning, and linguistic research, especially those centered on underrepresented languages.
 - 📫 You can reach me via [email/LinkedIn or preferred contact method] for discussions on potential collaborations, insights, and shared interests.
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Despite my intetests in Tigre lanhuage, I’m also an avid fan of the ancient Geez language and its scripts, seeing it as the building blocks of the modern linguistic advancement of our language.
+- ⚡ Fun fact: Despite my intetests in Tigre language, I’m also an avid fan of the ancient Geez language and its scripts, seeing it as the building blocks of the modern linguistic advancement of our language.
 
 <!---
 GhaniSaleh/GhaniSaleh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
